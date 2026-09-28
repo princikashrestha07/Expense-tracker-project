@@ -50,7 +50,7 @@ function Layout() {
         <div className="site-header__bar">
           <NavLink to="/" className="brand" onClick={() => setMenuOpen(false)}>
             <BrandMark />
-            <span>Ledger</span>
+            <span>Expense tracker project</span>
           </NavLink>
 
           <button

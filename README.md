@@ -1,4 +1,4 @@
-# Ledger — Personal Finance Dashboard
+# Expense tracker project — Personal Finance Dashboard
 
 A personal expense tracker built with React and Vite for a college project.
 It records income and expenses, shows a live summary, tracks a monthly

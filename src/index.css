@@ -2,7 +2,7 @@
    Design tokens
    ============================================================= */
 :root {
-  /* Color: a ledger-paper palette. Green/rust map to the finance
+  /* Color: a finance-paper palette. Green/rust map to the finance
      idioms "in the black" / "in the red" instead of generic status
      colors, and both meet WCAG AA contrast on paper and surface. */
   --color-paper: #f6f9f5;
