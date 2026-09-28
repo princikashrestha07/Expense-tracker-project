@@ -30,17 +30,17 @@ export const STORAGE_KEYS = {
 // pairs each swatch with its category name, so meaning never rests on color
 // alone.
 export const CATEGORY_COLORS = {
-  Food: '#AE4530',
-  Entertainment: '#B8862E',
-  Bills: '#6B5637',
-  Health: '#1E6350',
-  Transport: '#2E7D82',
-  Shopping: '#3D6E9C',
-  Education: '#7C5C9C',
-  Other: '#6B7280',
+  Food: '#D97991',
+  Entertainment: '#D9A45B',
+  Bills: '#A9798B',
+  Health: '#8BB8A5',
+  Transport: '#8CB5C8',
+  Shopping: '#A690C8',
+  Education: '#C889AF',
+  Other: '#A99AA3',
 }
 
-export const DEFAULT_CATEGORY_COLOR = '#6B7280'
+export const DEFAULT_CATEGORY_COLOR = '#A99AA3'
 
 // The currency symbol and locale used for every amount in the app. Kept in
 // one spot so switching currencies later is a one-line change.
